@@ -1,6 +1,5 @@
 # Naming Convention
 The rule is gathered from one or more articles, we may take some rule and ignore others. 
-***
 ## Repository Name
 - Use a combination of unique name and short common description
     | ✅   **Dos**| ❌ **Don't** |
